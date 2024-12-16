@@ -1,0 +1,14 @@
+var age = 28;
+console.log(age);
+var count = 10;
+var price = 19.99;
+console.log(count);
+console.log(price);
+var firstName = "Muddassir";
+var greeting = "Welcome, ".concat(firstName, "!");
+console.log(firstName);
+console.log(greeting);
+var isActive = true;
+var isFinished = false;
+console.log(isActive);
+console.log(isFinished);

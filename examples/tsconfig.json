@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "module": "commonjs", // or "esnext", depending on your environment
+      "target": "esnext",
+      "target": "es6",
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true
+    }
+  }
+  
